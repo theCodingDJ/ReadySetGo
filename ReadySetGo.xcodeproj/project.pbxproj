@@ -58,6 +58,7 @@
 		C535897C2C847CA100E7C31D /* TrafficLightViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrafficLightViewModelTests.swift; sourceTree = "<group>"; };
 		C535897E2C8495BF00E7C31D /* StringExtensionsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtensionsTests.swift; sourceTree = "<group>"; };
 		C53589802C84E95900E7C31D /* TrafficSignalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrafficSignalView.swift; sourceTree = "<group>"; };
+		C581C19E2C8535BA00F2E0AF /* ReadySetTest.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = ReadySetTest.xctestplan; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +114,7 @@
 				C535896A2C83C88D00E7C31D /* Views */,
 				C535893C2C83C15600E7C31D /* ReadySetGoApp.swift */,
 				C53589662C83C17100E7C31D /* TrafficLightSignalization.swift */,
+				C581C19E2C8535BA00F2E0AF /* ReadySetTest.xctestplan */,
 				C53589402C83C15800E7C31D /* Assets.xcassets */,
 				C53589422C83C15800E7C31D /* Preview Content */,
 			);

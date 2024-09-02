@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "F0E20A39-D434-417E-BEBB-584486BF2148",
+      "name" : "Ready. Set. Test!",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:ReadySetGo.xcodeproj",
+        "identifier" : "C53589482C83C15800E7C31D",
+        "name" : "ReadySetGoTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:ReadySetGo.xcodeproj",
+        "identifier" : "C53589522C83C15800E7C31D",
+        "name" : "ReadySetGoUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
